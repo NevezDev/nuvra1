@@ -45,9 +45,8 @@ const About: React.FC = () => {
                 Nossa Missão
               </h3>
               <p className="text-gray-600 leading-relaxed">
-                Democratizar o acesso a automações inteligentes e chatbots, permitindo que empresas de todos os tamanhos 
-                possam otimizar seus processos, melhorar o atendimento ao cliente e aumentar sua produtividade através 
-                de soluções tecnológicas acessíveis e eficazes.
+              Nossa missão é transformar tecnologia em aliada estratégica, ajudando empresas a crescerem de forma inteligente e sustentável.
+              Criamos automações que liberam tempo, reduzem custos e elevam o padrão de atendimento.
               </p>
             </div>
 
@@ -57,8 +56,7 @@ const About: React.FC = () => {
                 Nossa Visão
               </h3>
               <p className="text-gray-600 leading-relaxed">
-                Ser a referência nacional em automações e chatbots, reconhecida pela qualidade das soluções, 
-                inovação constante e pelo impacto positivo que geramos na transformação digital das empresas brasileiras.
+              Queremos ser referência em automação inteligente acessível. Trabalhamos com inovação, transparência e foco total no cliente. Cada solução que criamos é pautada em eficiência, evolução e resultado.
               </p>
             </div>
 
@@ -68,9 +66,7 @@ const About: React.FC = () => {
                 Nossa História
               </h3>
               <p className="text-gray-600 leading-relaxed">
-                Fundada com a visão de tornar a automação acessível a todos, a Nuvra nasceu da necessidade de 
-                simplificar processos complexos através da tecnologia. Desde então, temos ajudado dezenas de 
-                empresas a transformar seus negócios com soluções personalizadas e eficientes.
+              A Nuvra não nasceu apenas como uma empresa de tecnologia. Nós somos o elo entre inteligência artificial e negócios reais. Nossa essência é simplificar processos e transformar atendimentos em experiências que encantam e fidelizam.
               </p>
             </div>
           </div>

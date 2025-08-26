@@ -26,7 +26,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-gray-900 text-sm md:text-base">E-mail</h4>
-                    <p className="text-gray-600 text-sm md:text-base">contato@nuvra.com.br</p>
+                    <p className="text-gray-600 text-sm md:text-base">contato@nuvrasolutions.com.br</p>
                   </div>
                 </div>
 
@@ -36,7 +36,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-gray-900 text-sm md:text-base">Telefone</h4>
-                    <p className="text-gray-600 text-sm md:text-base">(11) 9 9999-9999</p>
+                    <p className="text-gray-600 text-sm md:text-base">(75) 9 9977-9590</p>
                   </div>
                 </div>
 
@@ -58,11 +58,11 @@ const Contact: React.FC = () => {
               <div className="space-y-2 text-xs md:text-sm text-gray-600">
                 <div className="flex justify-between">
                   <span>Segunda - Sexta</span>
-                  <span>08:00 - 18:00</span>
+                  <span>08:00 - 22:00</span>
                 </div>
                 <div className="flex justify-between">
                   <span>Sábado</span>
-                  <span>08:00 - 12:00</span>
+                  <span>08:00 - 18:00</span>
                 </div>
                 <div className="flex justify-between">
                   <span>Domingo</span>

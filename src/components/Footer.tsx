@@ -45,11 +45,11 @@ const Footer: React.FC = () => {
             <div className="space-y-3 text-sm text-gray-400">
               <div className="flex items-center space-x-2">
                 <Mail className="w-4 h-4" />
-                <span>contato@nuvra.com.br</span>
+                <span>contato@nuvrasolutions.com.br</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Phone className="w-4 h-4" />
-                <span>(11) 9 9999-9999</span>
+                <span>(75) 9 9977-9590</span>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="w-4 h-4" />

@@ -2,13 +2,13 @@ import React from 'react';
 import { ArrowRight, Bot, MessageSquare } from 'lucide-react';
 
 const Hero: React.FC = () => {
-  const phoneNumber = '5575998766261';
+  const phoneNumber = '557599779590';
   const message = 'Olá, gostaria de saber mais sobre as soluções da Nuvra!';
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
 
   return (
     <section id="home" className="pt-16 min-h-screen bg-gradient-to-br from-blue-50 via-purple-50 to-cyan-50">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16 lg:py-20">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 md:py-8 lg:py-10">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 items-center">
           {/* Content */}
           <div className="space-y-6 md:space-y-8">
