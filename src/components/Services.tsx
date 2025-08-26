@@ -70,7 +70,7 @@ const Services: React.FC = () => {
 
         <div className="text-center mt-16">
           <a 
-            href="https://wa.me/5575998766261?text=Olá, gostaria de solicitar um orçamento para as soluções da Nuvra!"
+            href="https://wa.me/5575999779590?text=Olá, gostaria de solicitar um orçamento para as soluções da Nuvra!"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-gradient-to-r from-blue-600 to-purple-600 text-white px-8 py-4 rounded-lg hover:from-blue-700 hover:to-purple-700 transition-all duration-200 font-medium shadow-lg inline-block"
